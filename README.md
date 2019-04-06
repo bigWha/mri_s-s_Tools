@@ -1,6 +1,6 @@
 # mri_s-s_Tools
 MRI Sequences sorting &amp; Segamentation masking Toolbox. musical-potato-potatoes~ Or fluffy-octo-sniffle?
-
+And please Don't read in preview if you want to understand how this stuff work.
   demo_Dicom_Classifyer5.m: It's my teacher Guoxi Xie's idea and I implement it with Matlab... 
     No other libs are required. Sucessfully tested on Matlab 2016a & Matlab 2016b
     pre-condition: In the selected direcotry the Dicom files are placed in the second layer of files. 
